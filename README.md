@@ -11,7 +11,7 @@ This repository contains a PostgreSQL database and a Python script for analyzing
 
 ## Files
 
-- `mlb_analysis.sql` - Contains SQL queries for creating the database and analyzing player statistics.
+- `mlb_data.sql` - Contains SQL queries for creating the database and analyzing player statistics.
 - `dodgers_data.py` - Python script for loading data into PostgreSQL and running analyses.
 - `dodgers_data.ipynb` - Google Colab notebook for data processing and analysis.
 
